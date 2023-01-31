@@ -1,0 +1,5 @@
+Variables: Una variable es como una cajita en donde guardo algo que voy a necesitar y usar despues.
+Strings: Son palabras, o cualquier tipo de texto entre comillas. Ej: 'Perro'.
+Funciones (argumentos, `return`): Una funcion sirve para agrupar codigo que voy a usar muchas veces, los argumentos son variables que utlizamos dentro de la funcion y nos sirven para devolver un valor deseado, cuando declaramos return en una funcion nos devuleve lo especificado.
+Declaraciones `if`: la sentencia if evalúa la condición en los paréntesis, y si el resultado es true ejecuta un bloque de código. A diferencia de else el cual se ejecutará cuando la condición sea falsa. 
+Valores booleanos (`true`, `false`): Significa que tenemos dos opciones, activar o desactvar, 0 o 1, verdadero o falso. En Javascript se utlizad para significar verdadero (true) o falso (false).
